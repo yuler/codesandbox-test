@@ -5,8 +5,10 @@
   "main": "index.js",
   "author": "yuler",
   "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
   "dependencies": {
-    "express": "^4.17.1",
     "koa": "^2.11.0"
   }
 }
