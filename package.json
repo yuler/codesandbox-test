@@ -6,8 +6,7 @@
   "author": "yuler",
   "license": "MIT",
   "scripts": {
-    "start": "micro",
-    "dev": "micro-dev"
+    "start": "micro"
   },
   "dependencies": {
     "micro": "^9.3.4"
