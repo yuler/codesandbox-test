@@ -1,0 +1,12 @@
+{
+  "name": "codesandbox-test",
+  "version": "0.1.0",
+  "description": "test codesandbox with github",
+  "main": "index.js",
+  "author": "yuler",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "koa": "^2.11.0"
+  }
+}
